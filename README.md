@@ -56,9 +56,3 @@ Sou um desenvolvedor focado na construção de ecossistemas tecnológicos que un
 - **Idiomas:** - 🇺🇸 **Inglês:** Fluente (Profissional/Técnico)
   - 🇪🇸 **Espanhol:** Básico
   - 🇧🇷 **Português:** Nativo
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielmazzeu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
