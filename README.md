@@ -1,51 +1,63 @@
-﻿<div align="center">
+<div align="center">
 
-  ### Software Engineer | Data Science Student @ FIAP
+# Daniel Mazzeu
+### Software Engineer | Data Science Student @ FIAP
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielmazzeunovo)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danielmazzeu.com.br)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@danielmazzeu.com.br)
-
-  ---
-</div>
-
-### 📑 Resumo Profissional
-Desenvolvedor focado na criação de ecossistemas tecnológicos robustos e escaláveis. Com experiência desde a fundação de startups de **RPA** até o desenvolvimento de sistemas críticos para grandes indústrias como a **Lupo S/A**. Atualmente unindo o desenvolvimento Full Stack com **Ciência de Dados** para criar soluções inteligentes e orientadas a dados.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielmazzeunovo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danielmazzeu.com.br)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@danielmazzeu.com.br)
 
 ---
 
-### 🛠️ Tech Stack
+</div>
 
-#### **Front-end**
-`React.js` `Next.js` `TypeScript` `React Native` `Tailwind CSS` `SEO`
+### 📑 Sobre Mim
+Sou um desenvolvedor focado na construção de ecossistemas tecnológicos que unem a agilidade do **Full Stack** com a inteligência da **Ciência de Dados**. Minha trajetória envolve desde a fundação de startups de automação (**RPA**) até a sustentação de sistemas críticos para gigantes da indústria como a **Lupo S/A**. 
 
-#### **Back-end & Data**
-`Node.js` `Python` `PHP` `PostgreSQL` `MySQL` `SQL Server` `Firebase` `Supabase`
+> **Objetivo atual:** Transformar grandes volumes de dados em decisões estratégicas através de modelos preditivos e arquiteturas escaláveis.
 
-#### **DevOps & Automation**
-`Git` `GitHub` `Vercel` `n8n (Workflow Automation)` `RPA Solutions`
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-end** | `React.js`, `Next.js`, `TypeScript`, `Tailwind CSS`, `React Native` |
+| **Back-end** | `Node.js`, `Python`, `PHP`, `FastAPI` |
+| **Data & Cloud** | `PostgreSQL`, `MySQL`, `SQL Server`, `Firebase`, `Supabase`, `Vercel` |
+| **Automation** | `n8n`, `RPA (Custom Solutions)`, `Python Automation`, `Git / GitHub` |
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Link |
-| :--- | :--- | :--- |
-| **JSON Generator** | Gerador de estruturas complexas via IA para mocks e esquemas. | [Acessar](https://jsongenerator.danielmazzeu.com.br) |
-| **Nepbot** | Agente de IA para triagem e direcionamento de clientes (Neppo). | [Acessar](https://chatbot.danielmazzeu.com.br) |
-| **Pokemon Data API** | Interface performática para exploração de dados estruturados. | [Acessar](https://pokeapi.danielmazzeu.com.br/) |
+| Projeto | Descrição | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **JSON Generator** | Gerador inteligente de estruturas complexas via IA para mocks. | `React`, `OpenAI API` | [Acessar 🔗](https://jsongenerator.danielmazzeu.com.br) |
+| **Nepbot** | Agente de IA para triagem e fluxo de atendimento automatizado. | `Node.js`, `NLP` | [Acessar 🔗](https://chatbot.danielmazzeu.com.br) |
+| **Pokemon Data API** | Dashboard de exploração de dados estruturados com alta performance. | `Next.js`, `API` | [Acessar 🔗](https://pokeapi.danielmazzeu.com.br/) |
 
 ---
 
-### 💼 Experiência
-- **L009 (Founder):** Desenvolvimento de soluções personalizadas de RPA e digitalização de workflows.
-- **Lupo S/A:** Desenvolvimento do ecossistema de gestão de franquias (ERP + Mobile Flutter).
-- **LLI9:** Arquitetura de sistemas internos de inventário e gestão de chamados.
+### 💼 Experiência Profissional
+
+* **L009 (Founder)** | *RPA & Workflow Automation*
+    * Desenvolvimento de soluções personalizadas de automação de processos, reduzindo o tempo operacional de clientes através de digitalização de workflows.
+* **Lupo S/A** | *Full Stack Developer*
+    * Desenvolvimento e manutenção do ecossistema de gestão de franquias, integrando ERP a aplicações Mobile (Flutter) para otimização de vendas e estoque.
+* **LLI9** | *Software Architect*
+    * Arquitetura de sistemas internos de inventário e gestão de chamados, focando em escalabilidade e experiência do usuário (UX).
 
 ---
 
-### 🎓 Formação & Idiomas
-- **Ciência de Dados** - FIAP (Cursando)
-- **Inglês:** Fluente (Técnico e Profissional)
-- **Espanhol:** Básico
+### 🎓 Educação & Skills
+- **Bacharelado em Ciência de Dados** – FIAP (Cursando)
+- **Idiomas:** - 🇺🇸 **Inglês:** Fluente (Profissional/Técnico)
+  - 🇪🇸 **Espanhol:** Básico
+  - 🇧🇷 **Português:** Nativo
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
