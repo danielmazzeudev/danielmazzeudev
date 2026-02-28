@@ -20,38 +20,39 @@ Sou um desenvolvedor focado na construção de ecossistemas tecnológicos que un
 
 ### 🛠️ Tech Stack & Ferramentas
 
-| Categoria | Tecnologias |
+| Categoria | Descrição & Tecnologias |
 | :--- | :--- |
-| **Front-end** | `React.js`, `Next.js`, `TypeScript`, `Tailwind CSS`, `React Native` |
-| **Back-end** | `Node.js`, `Python`, `PHP`, `FastAPI` |
-| **Data & Cloud** | `PostgreSQL`, `MySQL`, `SQL Server`, `Firebase`, `Supabase`, `Vercel` |
-| **Automation** | `n8n`, `RPA (Custom Solutions)`, `Python Automation`, `Git / GitHub` |
+| **Front-end** | *Design, elegância, responsividade e funcionalidade.* <br> `React.js`, `Next.js`, `TypeScript`, `React Native`, `HTML5`, `CSS3` |
+| **Back-end** | *Código clean com foco em manutenção e escalabilidade.* <br> `Node.js`, `Python`, `PHP`, `FastAPI` |
+| **Database & Cloud** | *Diferencial competitivo em persistência e hospedagem.* <br> `PostgreSQL`, `MySQL`, `SQL Server`, `Firebase`, `Supabase`, `Vercel` |
+| **Utilidades** | *Automação e produtividade.* <br> `n8n`, `RPA`, `Git / GitHub`, `Postman`, `Tailwind CSS`, `SEO`, `Google Ads` |
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **JSON Generator** | Gerador inteligente de estruturas complexas via IA para mocks. | `React`, `OpenAI API` | [Acessar 🔗](https://jsongenerator.danielmazzeu.com.br) |
-| **Nepbot** | Agente de IA para triagem e fluxo de atendimento automatizado. | `Node.js`, `NLP` | [Acessar 🔗](https://chatbot.danielmazzeu.com.br) |
-| **Pokemon Data API** | Dashboard de exploração de dados estruturados com alta performance. | `Next.js`, `API` | [Acessar 🔗](https://pokeapi.danielmazzeu.com.br/) |
+| Projeto | Descrição | Link |
+| :--- | :--- | :--- |
+| **JSON Generator** | Gere estruturas complexas instantaneamente usando IA. Ideal para mocks e esquemas de dados. | [Acessar 🔗](https://jsongenerator.danielmazzeu.com.br) |
+| **Danbot** | Agente de IA para triagem inteligente e conexão direta com meu ecossistema de projetos. | [Acessar 🔗](https://chatbot.danielmazzeu.com.br) |
+| **Pokemon Data API** | Exploração do universo Pokémon via API REST com exibição estruturada de dados. | [Acessar 🔗](https://pokeapi.danielmazzeu.com.br/) |
 
 ---
 
 ### 💼 Experiência Profissional
 
 * **L009 (Founder)** | *RPA & Workflow Automation*
-    * Desenvolvimento de soluções personalizadas de automação de processos, reduzindo o tempo operacional de clientes através de digitalização de workflows.
+    * Fundação focada em soluções de automação e sistemas personalizados para digitalização de workflows.
 * **Lupo S/A** | *Full Stack Developer*
-    * Desenvolvimento e manutenção do ecossistema de gestão de franquias, integrando ERP a aplicações Mobile (Flutter) para otimização de vendas e estoque.
+    * Desenvolvimento do ecossistema de gestão de franquias (ERP + Mobile Flutter) para controle de estoque e vendas.
 * **LLI9** | *Software Architect*
-    * Arquitetura de sistemas internos de inventário e gestão de chamados, focando em escalabilidade e experiência do usuário (UX).
+    * Construção de sistemas de inventário e gestão de chamados, focando em escalabilidade e UX.
 
 ---
 
-### 🎓 Educação & Skills
-- **Bacharelado em Ciência de Dados** – FIAP (Cursando)
+### 🎓 Educação & Idiomas
+- **Graduação em Data Science** – FIAP (Cursando)
+    * Foco em Machine Learning, Big Data Analytics e Cloud Computing para insights estratégicos.
 - **Idiomas:** - 🇺🇸 **Inglês:** Fluente (Profissional/Técnico)
   - 🇪🇸 **Espanhol:** Básico
   - 🇧🇷 **Português:** Nativo
@@ -59,5 +60,5 @@ Sou um desenvolvedor focado na construção de ecossistemas tecnológicos que un
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielmazzeu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
