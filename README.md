@@ -49,7 +49,7 @@ Tenho foco em criar solucoes web, mobile e orientadas a dados com preocupacao re
 | **Portfolio** | Meu hub principal com projetos, stack, certificados e contato. | [danielmazzeu.com.br](https://danielmazzeu.com.br) |
 | **Lumni Landing Page** | Landing page institucional da Lumni com foco em dados, APIs, analytics e IA aplicada. | [lumni.dev.br](https://www.lumni.dev.br) |
 | **JSON Generator** | Ferramenta para gerar estruturas JSON com apoio de IA, ideal para mocks e esquemas de dados. | [Acessar](https://jsongenerator.lumni.dev.br) |
-| **Danbot** | Agente de IA para triagem inteligente e conexao com meu ecossistema de projetos. | [Acessar](https://webchatbot.lumni.dev.br) |
+| **Luna** | Assistente virtual da Lumni para atendimento comercial, qualificacao de leads e conversas guiadas com IA. | [Acessar](https://webchatbot.lumni.dev.br) |
 | **Pokemon Data API** | Projeto para exploracao de dados Pokemon com consumo de API REST e apresentacao estruturada. | [Acessar](https://pokeapi.lumni.dev.br) |
 | **Megalumni** | App mobile focado em estatisticas avancadas para Mega-Sena com base em dados historicos. | [Google Play](https://play.google.com/store/apps/details?id=br.danielmazzeu.megalumni&pcampaignid=web_share) |
 
