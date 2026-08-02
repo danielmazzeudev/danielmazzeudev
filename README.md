@@ -3,8 +3,6 @@
 # Daniel Mazzeu
 ### Backend Sênior | Full Stack | IA aplicada
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danielmazzeu.com.br)
-
 </div>
 
 ---
