@@ -4,7 +4,6 @@
 ### Backend Sênior | Full Stack | IA aplicada
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danielmazzeu.com.br)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmazzeu.dev@gmail.com)
 
 </div>
 
