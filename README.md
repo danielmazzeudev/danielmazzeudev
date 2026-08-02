@@ -1,7 +1,7 @@
 <div align="center">
 
 # Daniel Mazzeu
-### Backend Sênior | Full Stack | IA aplicada
+### Full Stack Sênior | AI Engineer | DevOps
 
 </div>
 
