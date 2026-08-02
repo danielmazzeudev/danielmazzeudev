@@ -23,10 +23,10 @@ Busco oportunidade **100% remota**. Mais detalhes, experiências e currículo no
 ## Áreas de atuação
 
 - Backend, APIs, integrações e arquitetura server-side
-- Produtos SaaS com Next.js, Supabase, Stripe e automações
-- IA aplicada: LLM, RAG, embeddings, chat, voz e WhatsApp API
+- Produtos SaaS com Next.js, PostgreSQL, Drizzle ORM, NextAuth e Stripe
+- IA aplicada: LLM, agentes, MCP, RAG, embeddings, chat, voz e WhatsApp API
 - Cloud, segurança e dados: AWS, Cloudflare WAF, Docker, PostgreSQL
-- Mobile cross-platform com React Native e Flutter
+- Multiplataforma: React Native, Flutter, extensões Chrome e apps desktop
 
 ---
 
@@ -34,12 +34,12 @@ Busco oportunidade **100% remota**. Mais detalhes, experiências e currículo no
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Backend** | `Node.js`, `Fastify`, `.NET / C#`, `Python`, `REST APIs`, `GraphQL` |
-| **Front-end** | `React`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Angular` |
-| **IA aplicada** | `OpenAI`, `RAG`, `Embeddings`, `Function Calling`, `TTS` |
+| **Backend** | `Node.js`, `Fastify`, `.NET / C#`, `Python`, `FastAPI`, `REST APIs`, `GraphQL` |
+| **Front-end** | `React`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Three.js` |
+| **IA aplicada** | `Anthropic / Claude`, `OpenAI`, `MCP`, `RAG`, `Embeddings`, `Function Calling`, `TTS` |
 | **Cloud e segurança** | `AWS`, `Cloudflare WAF`, `Docker`, `Vercel`, `Supabase` |
-| **Dados** | `PostgreSQL`, `pgvector`, `SQL`, `Power BI`, `Pandas` |
-| **Mobile** | `React Native`, `Flutter` |
+| **Dados** | `PostgreSQL`, `Drizzle ORM`, `pgvector`, `SQL`, `Power BI`, `Pandas` |
+| **Multiplataforma** | `React Native`, `Flutter`, `Chrome Extensions`, `Desktop (pywebview)` |
 
 ---
 
@@ -48,7 +48,8 @@ Busco oportunidade **100% remota**. Mais detalhes, experiências e currículo no
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
 | **Portfolio** | Hub principal com projetos, stack, certificados e contato. | [danielmazzeu.com.br](https://danielmazzeu.com.br) |
-| **Lumni CRM** | CRM para psicólogas com pacientes, agenda, prontuários, Lun-IA, Stripe e plano gratuito. | [lumni.dev.br](https://lumni.dev.br) |
+| **Disys** | ATS de RH: recrutamento e seleção com empresas, vagas, candidatos, pipeline kanban, equipe com permissões e página de carreiras pública. | [disys.lumni.dev.br](https://disys.lumni.dev.br) |
+| **Sirius** | Agente de IA geral: app Python com Anthropic, MCP, FastAPI e RAG, landing 3D e extensão Chrome. | [sirius.lumni.dev.br](https://sirius.lumni.dev.br) |
 | **Megalumni** | App mobile com estatísticas avançadas para Mega-Sena. | [Google Play](https://play.google.com/store/apps/details?id=br.danielmazzeu.megalumni&pcampaignid=web_share) |
 
 ---
@@ -64,3 +65,5 @@ Busco oportunidade **100% remota**. Mais detalhes, experiências e currículo no
 - **Português:** nativo
 - **Inglês:** fluente
 - **Espanhol:** básico
+</content>
+</invoke>
