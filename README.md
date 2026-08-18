@@ -9,7 +9,7 @@
 
 ## Sobre
 
-Backend Sênior na **Prospera**, desenvolvendo o **Soul Up**, rede social em escala. Founder do **Lumni CRM** para psicólogas. Atuo entre APIs, cloud, segurança e LLMs com entrega orientada a negócio.
+Backend Sênior na **Prospera**, desenvolvendo o **Soul Up**, rede social em escala. Founder da **Lumni - Serviços Digitais**, com sistemas próprios em produção. Atuo entre APIs, cloud, segurança e LLMs com entrega orientada a negócio.
 
 Busco oportunidade **100% remota**. Mais detalhes, experiências e currículo no [portfolio](https://danielmazzeu.com.br).
 
@@ -45,6 +45,7 @@ Busco oportunidade **100% remota**. Mais detalhes, experiências e currículo no
 | **Portfolio** | Hub principal com projetos, stack, certificados e contato. | [danielmazzeu.com.br](https://danielmazzeu.com.br) |
 | **Disys** | ATS de RH: recrutamento e seleção com empresas, vagas, candidatos, pipeline kanban, equipe com permissões e página de carreiras pública. | [disys.lumni.dev.br](https://disys.lumni.dev.br) |
 | **Sirius** | Agente de IA geral: app Python com Anthropic, MCP, FastAPI e RAG, landing 3D e extensão Chrome. | [sirius.lumni.dev.br](https://sirius.lumni.dev.br) |
+| **Sirius WhatsApp** | Chatbot de atendimento no WhatsApp Business: tira dúvidas sobre a Lumni e seus sistemas, conduz a orçamento ou agendamento e envia o pedido por e-mail. Node.js com LangChain.js, OpenAI (function calling) e base de conhecimento raspada diariamente. | [wa.me/5516992447672](https://wa.me/5516992447672) |
 | **Nipuz** | Navegador multi-contas em Electron: várias contas isoladas numa janela só, cada uma com login, cookies e cache próprios e processo independente. App desktop de Windows com licença Stripe. | [nipuz.lumni.dev.br](https://nipuz.lumni.dev.br) |
 | **Megalumni** | App mobile com estatísticas avançadas para Mega-Sena. | [Google Play](https://play.google.com/store/apps/details?id=br.danielmazzeu.megalumni&pcampaignid=web_share) |
 
@@ -61,5 +62,3 @@ Busco oportunidade **100% remota**. Mais detalhes, experiências e currículo no
 - **Português:** nativo
 - **Inglês:** fluente
 - **Espanhol:** básico
-</content>
-</invoke>
