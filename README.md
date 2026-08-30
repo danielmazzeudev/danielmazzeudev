@@ -47,6 +47,7 @@ Busco oportunidade **100% remota**. Mais detalhes, experiências e currículo no
 | **Sirius** | Agente de IA geral: app Python com Anthropic, MCP, FastAPI e RAG, landing 3D e extensão Chrome. | [sirius.lumni.dev.br](https://sirius.lumni.dev.br) |
 | **Sirius WhatsApp** | Chatbot de atendimento no WhatsApp Business: tira dúvidas sobre a Lumni e seus sistemas, conduz a orçamento ou agendamento e envia o pedido por e-mail. Node.js com LangChain.js, OpenAI (function calling) e base de conhecimento raspada diariamente. | [wa.me/5516992447672](https://wa.me/5516992447672) |
 | **Nipuz** | Navegador multi-contas em Electron: várias contas isoladas numa janela só, cada uma com login, cookies e cache próprios e processo independente. App desktop de Windows com licença Stripe. | [nipuz.lumni.dev.br](https://nipuz.lumni.dev.br) |
+| **Wizold** | Jogo de navegador: RPG de lobisomem. Caçador do nível 1 ao 1000, caça por territórios, forja e melhoria de equipamento, arena contra jogadores reais e taverna e mercado ao vivo. Next.js, PostgreSQL, Supabase e Stripe, com o servidor como autoridade de cada jogada. | [wizold.lumni.dev.br](https://wizold.lumni.dev.br) |
 | **Megalumni** | App mobile com estatísticas avançadas para Mega-Sena. | [Google Play](https://play.google.com/store/apps/details?id=br.danielmazzeu.megalumni&pcampaignid=web_share) |
 
 ---
