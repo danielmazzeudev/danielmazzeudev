@@ -11,7 +11,7 @@
 
 Backend Sênior na **Prospera**, desenvolvendo o **Soul Up**, rede social em escala. Founder da **Lumni - Serviços Digitais**, com sistemas próprios em produção. Atuo entre APIs, cloud, segurança e LLMs com entrega orientada a negócio.
 
-Busco oportunidade **100% remota**. Mais detalhes, experiências e currículo no [portfolio](https://danielmazzeu.com.br).
+Mais detalhes, experiências e currículo no [portfolio](https://danielmazzeu.com.br).
 
 ---
 
